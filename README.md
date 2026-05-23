@@ -16,7 +16,9 @@ Upgraded from its legacy Tkinter version, this application now features a modern
 
 ![App Screenshot](https://github.com/yusufyasar13/password-generator-remake/blob/main/password_generator/screenshots/password_generator_ss_1.png)
 
-![App Screenshot](https://github.com/yusufyasar13/password-generator-remake/blob/main/password_generator/screenshots/password_generator_ss_2.png)## ✨ Features
+![App Screenshot](https://github.com/yusufyasar13/password-generator-remake/blob/main/password_generator/screenshots/password_generator_ss_2.png)
+
+## ✨ Features
 
 - **Cryptographically Secure:** Uses Python's `secrets` module instead of `random` to ensure unpredictable, hacker-proof passwords.
 - **Encrypted Local Vault:** Passwords are encrypted using AES (Fernet) cryptography and stored safely in a local SQLite database (`vault.db`).
