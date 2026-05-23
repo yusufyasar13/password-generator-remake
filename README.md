@@ -23,7 +23,10 @@ Upgraded from its legacy Tkinter version, this application now features a modern
 - **Modern UI:** A clean, user-friendly, and responsive graphical interface built with PyQt6.
 - **Customizable Passwords:** Choose length (8-32) and toggle letters, numbers, and special symbols.
 - **Vault Manager:** A built-in dialog to view decrypted passwords and delete old records.
-- **One-Click Copy:** Easily copy generated passwords to your clipboard with visual feedback.## 🚀 Option 1: Standalone Executable (Recommended for Regular Users)
+- **One-Click Copy:** Easily copy generated passwords to your clipboard with visual feedback.
+
+
+## 🚀 Option 1: Standalone Executable (Recommended for Regular Users)
 
 There are two ways to use this application. If you just want to use the app without dealing with code:
 
