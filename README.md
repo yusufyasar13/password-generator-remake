@@ -1,8 +1,6 @@
 
 # Password Generator
 
-A brief description of what this project does and who it's for
-
 # 🔐 Secure Password Generator & Vault
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
